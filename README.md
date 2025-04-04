@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Silveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsilveira&label=Profile%20views&color=0e75b6&style=flat" alt="samsilveira" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
+- 🌱 I’m currently learning **HTML, CSS, JS and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
