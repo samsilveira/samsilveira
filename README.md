@@ -100,9 +100,9 @@
 <h3 align="left">🔥 Minhas Estatísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=samsilveira&show_icons=true&theme=dracula" height="170" alt="github stats"  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=samsilveira&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samsilveira&theme=dracula&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 ###
