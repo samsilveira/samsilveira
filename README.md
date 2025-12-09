@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🚀 Projeto Principal</h3>
+<h3 align="left">🚀 Projetos em Destaque</h3>
 
 <ul>
   <li>
@@ -74,6 +74,23 @@
       </li>
     </ul>
   </li>
+
+  <br>
+
+  <li>
+    <strong><a href="https://github.com/samsilveira/personal-library">Biblioteca Pessoal Digital</a></strong>
+    <ul>
+      <li><strong>Status:</strong> Concluído (Projeto Acadêmico)</li>
+      <li>Sistema em linha de comando (CLI) desenvolvido em Python para gerenciamento de acervo literário, rastreamento de leitura e metas anuais. O foco do projeto foi a aplicação rigorosa de boas práticas de Engenharia de Software.</li>
+      <li><strong>Destaques Técnicos:</strong>
+        <ul>
+            <li><strong>Arquitetura Robusta:</strong> Implementação em camadas separando modelos, dados (Repository Pattern) e interface, garantindo desacoplamento.</li>
+            <li><strong>POO Avançada:</strong> Uso de Classes Abstratas (`Publication`), Mixins para gestão de arquivos (`DigitalAsset`) e Polimorfismo.</li>
+            <li><strong>Qualidade de Código:</strong> Cobertura de testes automatizados com <strong>Pytest</strong> e validação de regras de negócio complexas.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 
@@ -85,6 +102,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
