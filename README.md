@@ -121,7 +121,7 @@
 <div align="center">
   <img src="https://github-readme-stats-samsilveira.vercel.app/api?username=samsilveira&show_icons=true&theme=dracula" height="170" alt="github stats"  />
   <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samsilveira&theme=dracula&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-samsilveira.vercel.app/?user=samsilveira&theme=dracula&border_radius=5&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 ###
