@@ -80,12 +80,12 @@
   <li>
     <strong><a href="https://github.com/samsilveira/personal-library">Biblioteca Pessoal Digital</a></strong>
     <ul>
-      <li><strong>Status:</strong> Concluído (Projeto Acadêmico)</li>
-      <li>Sistema em linha de comando (CLI) desenvolvido em Python para gerenciamento de acervo literário, rastreamento de leitura e metas anuais. O foco do projeto foi a aplicação rigorosa de boas práticas de Engenharia de Software.</li>
+      <li><strong>Status:</strong> Em desenvolvimento (Projeto Acadêmico)</li>
+      <li>Sistema em linha de comando (CLI) desenvolvido em Python para gerenciamento de acervo literário, rastreamento de leitura e metas anuais. O foco do projeto foi a aplicação rigorosa de boas práticas de Engenharia de Software e Programação Orientada à Objetos.</li>
       <li><strong>Destaques Técnicos:</strong>
         <ul>
             <li><strong>Arquitetura Robusta:</strong> Implementação em camadas separando modelos, dados (Repository Pattern) e interface, garantindo desacoplamento.</li>
-            <li><strong>POO Avançada:</strong> Uso de Classes Abstratas (`Publication`), Mixins para gestão de arquivos (`DigitalAsset`) e Polimorfismo.</li>
+            <li><strong>POO Avançada:</strong> Uso de Classes Abstratas (<code>Publication</code>), Mixins para gestão de arquivos (<code>DigitalAsset</code>) e Polimorfismo.</li>
             <li><strong>Qualidade de Código:</strong> Cobertura de testes automatizados com <strong>Pytest</strong> e validação de regras de negócio complexas.</li>
         </ul>
       </li>
